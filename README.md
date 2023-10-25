@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](cody-barker/github-header-image.png)
+![Header](./cody-barker/github-header-image.png)
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning redux-toolkit.
 - 👯 I’m looking to collaborate on native plant projects.
