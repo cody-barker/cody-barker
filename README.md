@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Header](./github-header-image.png)
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning redux-toolkit.
