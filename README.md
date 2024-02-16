@@ -1,8 +1,6 @@
-<!--![Header](./github-header-image.png) -->
-- 🔭 I’m currently working on The Portland Native Plant List.
-- 🌱 I’m currently learning CSS3.
-- 👯 I’m looking to collaborate on The Portland Native Plant List.
+- 🔭 I’m currently working on an LED guided rock climbing application.
+- 🌱 I’m currently learning about Websockets and Progressive Web Apps.
+- 👯 I’m looking to collaborate on <a href="https://portlandnativeplants.com">The Portland Native Plant List.</a>
 - 🤔 I’m looking for a new job as a Junior Software Engineer.
-- 💬 Ask me about my skills!
 - 📫 How to reach me: codybarker.dev
-- ⚡ Fun fact: I'm an avid hiker, angler, and conservationist.
+- ⚡ Fun fact: I'm an avid conservationist and I love to use microcontrollers and sensors in my projects!
