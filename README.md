@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on an LED guided rock climbing application.
+- 🔭 I’m currently working on an LED guided rock climbing application. Check out the repo!
 - 🌱 I’m currently learning about Websockets and Progressive Web Apps.
 - 👯 I’m looking to collaborate on <a href="https://portlandnativeplants.com">Portland Native Plants.</a>
 - 🤔 I’m looking for a new job as a Junior Software Engineer or Web Developer.
