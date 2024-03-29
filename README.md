@@ -3,4 +3,4 @@
 - 👯 I’m looking to collaborate on <a href="https://portlandnativeplants.com">Portland Native Plants.</a>
 - 🤔 I’m looking for a new job as a Junior Software Engineer or Web Developer.
 - 📫 How to reach me: <a href="https://codybarker.dev">Portfolio Site</a>
-- ⚡ Fun fact: I'm an avid conservationist and I love to use microcontrollers and sensors in my projects!
+- ⚡ Fun fact: I'm an active habitat restoration specialist and love building software that supports responsible stewardship!
