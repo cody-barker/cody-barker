@@ -1,6 +1,1 @@
-- 🔭 I’m currently trialing my custom wireless moisture sensors for a local native plant nursery.
-- 🌱 I’m currently learning about powering microcontrollers with varying battery technologies.
-- 👯 I’m looking to collaborate on <a href="https://portlandnativeplants.com">Portland Native Plants.</a>
-- 🤔 I’m looking for a new job as a Junior Software Engineer or Web Developer.
-- 📫 How to reach me: <a href="https://codybarker.dev">Portfolio Site</a>
-- ⚡ Fun fact: I'm an active habitat restoration specialist and love building software that supports responsible stewardship and the efficient use of natural resources!
+
